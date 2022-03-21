@@ -116,7 +116,7 @@ img {
 
 /* BONUS */
 
-@media (orientation: portrait){
+@media screen and (min-width: 419px) and (max-width:1000px) {
   #steps, #lezioni .row h1{
     background-color: lime;
     border: 3px dotted black ;
