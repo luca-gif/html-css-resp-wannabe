@@ -72,6 +72,8 @@ img {
   clear: both;
 }
 
+/* MEDIA QUERYS */
+
 @media screen and (max-width: 419px){
   
   *{
