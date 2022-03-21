@@ -111,3 +111,13 @@ img {
   margin-top: 20px;
   }
 }
+
+/* BONUS */
+
+@media (orientation: portrait){
+  #steps, #lezioni .row h1{
+    background-color: lime;
+    border: 3px dotted black ;
+  }
+  
+}
